@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ELE_SMS_NITESH_BOLLA</string>
+    <string name="saveDbBtnText">Click to Save SMS INTO DB</string>
+    <string name="getcreditCardMsgText">Get Credit Card Messages</string>
+    <string name="noContentText">No Credit Card Transaction Messages</string>
+    <string name="srNoText">Sr No</string>
+    <string name="bankNameText">Bank Name</string>
+    <string name="creditCardText">Credit Card Number</string>
+    <string name="transactionAmountText">Transaction Amount</string>
+    <string name="transactionDateText">Transaction Date</string>
+    <string name="msgReceivedTimeText">Message Received Time</string>
+</resources>
